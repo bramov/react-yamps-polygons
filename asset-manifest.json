@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/react-yamps-polygons/gh-pages/static/js/main.80ffdc7c.chunk.js",
-    "main.js.map": "/react-yamps-polygons/gh-pages/static/js/main.80ffdc7c.chunk.js.map",
-    "runtime-main.js": "/react-yamps-polygons/gh-pages/static/js/runtime-main.1f96d501.js",
-    "runtime-main.js.map": "/react-yamps-polygons/gh-pages/static/js/runtime-main.1f96d501.js.map",
-    "static/js/2.eca7e381.chunk.js": "/react-yamps-polygons/gh-pages/static/js/2.eca7e381.chunk.js",
-    "static/js/2.eca7e381.chunk.js.map": "/react-yamps-polygons/gh-pages/static/js/2.eca7e381.chunk.js.map",
-    "index.html": "/react-yamps-polygons/gh-pages/index.html",
-    "static/js/2.eca7e381.chunk.js.LICENSE.txt": "/react-yamps-polygons/gh-pages/static/js/2.eca7e381.chunk.js.LICENSE.txt"
+    "main.js": "/react-yamps-polygons/static/js/main.80ffdc7c.chunk.js",
+    "main.js.map": "/react-yamps-polygons/static/js/main.80ffdc7c.chunk.js.map",
+    "runtime-main.js": "/react-yamps-polygons/static/js/runtime-main.87cbc6d7.js",
+    "runtime-main.js.map": "/react-yamps-polygons/static/js/runtime-main.87cbc6d7.js.map",
+    "static/js/2.eca7e381.chunk.js": "/react-yamps-polygons/static/js/2.eca7e381.chunk.js",
+    "static/js/2.eca7e381.chunk.js.map": "/react-yamps-polygons/static/js/2.eca7e381.chunk.js.map",
+    "index.html": "/react-yamps-polygons/index.html",
+    "static/js/2.eca7e381.chunk.js.LICENSE.txt": "/react-yamps-polygons/static/js/2.eca7e381.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1f96d501.js",
+    "static/js/runtime-main.87cbc6d7.js",
     "static/js/2.eca7e381.chunk.js",
     "static/js/main.80ffdc7c.chunk.js"
   ]
